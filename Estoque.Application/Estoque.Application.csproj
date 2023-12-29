@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Estoque.Domain\Estoque.Domain.csproj" />
+    <ProjectReference Include="..\Estoque.Infra.CrossCutting\Estoque.Infra.CrossCutting.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Repositorio\Estoque.Infra.CrossCutting\bin\Debug\net5.0\Estoque.Infra.CrossCutting.deps.json
+C:\Repositorio\Estoque.Infra.CrossCutting\bin\Debug\net5.0\Estoque.Infra.CrossCutting.dll
+C:\Repositorio\Estoque.Infra.CrossCutting\bin\Debug\net5.0\Estoque.Infra.CrossCutting.pdb
+C:\Repositorio\Estoque.Infra.CrossCutting\obj\Debug\net5.0\Estoque.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Estoque.Infra.CrossCutting\obj\Debug\net5.0\Estoque.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Repositorio\Estoque.Infra.CrossCutting\obj\Debug\net5.0\Estoque.Infra.CrossCutting.AssemblyInfo.cs
+C:\Repositorio\Estoque.Infra.CrossCutting\obj\Debug\net5.0\Estoque.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Repositorio\Estoque.Infra.CrossCutting\obj\Debug\net5.0\Estoque.Infra.CrossCutting.dll
+C:\Repositorio\Estoque.Infra.CrossCutting\obj\Debug\net5.0\refint\Estoque.Infra.CrossCutting.dll
+C:\Repositorio\Estoque.Infra.CrossCutting\obj\Debug\net5.0\Estoque.Infra.CrossCutting.pdb
+C:\Repositorio\Estoque.Infra.CrossCutting\obj\Debug\net5.0\ref\Estoque.Infra.CrossCutting.dll
